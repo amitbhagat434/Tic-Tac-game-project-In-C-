@@ -2,7 +2,7 @@
 
 A simple two-player Tic Tac Toe game built using C++ and played in the console. The program allows two players to take turns placing their markers (X or 0), checks for a winner after every move, and declares the result — win or tie.
 
-*Features:*
+**Features:**
 
 Two-player mode with turn swapping
 
@@ -12,7 +12,7 @@ Real-time board updates after each move
 
 Detects wins across rows, columns, and diagonals
 
-*Technologies Used:*
+**Technologies Used:**
 
 C++ (basic control structures, loops, functions, and arrays)
 
